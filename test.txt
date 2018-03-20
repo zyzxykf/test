@@ -2,3 +2,5 @@ add test.txt
 
 add some local texts
 add some remote texts
+
+add some text on master
